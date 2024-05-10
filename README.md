@@ -1,6 +1,5 @@
 # Demographic_Data_Analysis
-Showcase of data analysis sample on demographic data
-The following questions were addressed using Pandas:
+Showcasing data analysis sample on demographic data. The following questions were addressed using Pandas:
 
     How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
     What is the average age of men?
